@@ -8,8 +8,8 @@ i.e. turn it into a *.pcg file that Autodesk products can open.
 
 The project contains two User Macros to make things easier:
 
-$(RVTPROGRAM) = C:/Program Files/Autodesk/Revit Architecture 2012/Program/ 
-$(RVTSDK) = C:/Revit SDK 2012/
+* $(RVTPROGRAM) = C:/Program Files/Autodesk/Revit Architecture 2012/Program/ 
+* $(RVTSDK) = C:/Revit SDK 2012/
 
 If on your system these values are not correct, then inside Visual Studio 2010 you 
 can go to View >> Property Manager, then double-click on the Microsoft.Cpp.Win32.user entry
@@ -23,8 +23,8 @@ Project Properties >> Configuration Properties >> VC++ Directories >> Include Di
 To debug the project, you can just set the following values under 
 Project Properties >> Configuration Properties >> Debugging: 
 
-Command = $(RVTPROGRAM)AdPointCloudIndexer.exe
-Command Arguments = "$(ProjectDir)Demo Head - Point Cloud.ASC" "$(ProjectDir)Demo Head - Point Cloud.pcg"
+* Command = $(RVTPROGRAM)AdPointCloudIndexer.exe
+* Command Arguments = "$(ProjectDir)Demo Head - Point Cloud.ASC" "$(ProjectDir)Demo Head - Point Cloud.pcg"
 
 Written by Adam Nagy
 Developer Technical Services 
