@@ -48,5 +48,5 @@ UNINTERRUPTED OR ERROR FREE.
 Resources
 ---------
 
-- (Point cloud API overview)[http://thebuildingcoder.typepad.com/blog/2011/11/au-begins-and-point-cloud-overview.html]
-- (Batch PCG creation using point cloud indexer)[http://forums.autodesk.com/t5/revit-architecture/batch-pcg-creation-using-autodesk-point-cloud-indexer/td-p/3238878]
+- [Point cloud API overview](http://thebuildingcoder.typepad.com/blog/2011/11/au-begins-and-point-cloud-overview.html)
+- [Batch PCG creation using point cloud indexer](http://forums.autodesk.com/t5/revit-architecture/batch-pcg-creation-using-autodesk-point-cloud-indexer/td-p/3238878)
