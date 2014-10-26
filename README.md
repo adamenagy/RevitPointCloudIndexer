@@ -1,7 +1,11 @@
 RevitPointCloudIndexer
 ======================
 
-Point Cloud indexer for Revit 2012
+Point Cloud indexer for Revit 2012.
+
+Now obsolete (October 2014)!
+
+Please refer to the updated [Point Cloud Indexing Overview](http://thebuildingcoder.typepad.com/blog/2014/10/point-cloud-indexing-update.html).
 
 This sample shows how you can index your own point cloud file format, 
 i.e. turn it into a *.pcg file that Autodesk products can open.
@@ -50,3 +54,4 @@ Resources
 
 - [Point cloud API overview](http://thebuildingcoder.typepad.com/blog/2011/11/au-begins-and-point-cloud-overview.html)
 - [Batch PCG creation using point cloud indexer](http://forums.autodesk.com/t5/revit-architecture/batch-pcg-creation-using-autodesk-point-cloud-indexer/td-p/3238878) Revit API forum discussion thread
+- [Point Cloud Indexing Overview](http://thebuildingcoder.typepad.com/blog/2014/10/point-cloud-indexing-update.html)
