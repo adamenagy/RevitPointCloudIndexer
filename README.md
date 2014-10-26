@@ -3,7 +3,7 @@ RevitPointCloudIndexer
 
 Point Cloud indexer for Revit 2012.
 
-Now obsolete (October 2014)!
+*Now obsolete (October 2014)!*
 
 Please refer to the updated [Point Cloud Indexing Overview](http://thebuildingcoder.typepad.com/blog/2014/10/point-cloud-indexing-update.html).
 
