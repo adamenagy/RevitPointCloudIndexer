@@ -5,7 +5,7 @@ Point Cloud indexer for Revit 2012.
 
 **Now obsolete (October 2014)!**
 
-Please refer to the updated [Point Cloud Indexing Overview](http://thebuildingcoder.typepad.com/blog/2014/10/point-cloud-indexing-update.html).
+Please refer to the updated [Point Cloud Indexing Overview](http://thebuildingcoder.typepad.com/blog/2014/10/point-cloud-indexing-update.html) on [The Building Coder](http://thebuildingcoder.typepad.com).
 
 This sample shows how you can index your own point cloud file format, 
 i.e. turn it into a *.pcg file that Autodesk products can open.
